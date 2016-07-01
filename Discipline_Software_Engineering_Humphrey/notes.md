@@ -25,6 +25,7 @@ Its benefit include:
 - Aid process management
 
 Therefore several levels of process maturity can be defined:
+
 1. Initial Stage. Ad hoc and chaotic.
 2. Repeatable.
    - Software configuration management.
@@ -55,9 +56,9 @@ PSP is a process that can help you improve and very rewarding in the long run. I
 
 ### PSP Strategy
 0. Start to have time recording and defect recording process. Make standard for defect types.
-0.1. Establish coding standard, code size measurement, and process improvement proposal.
+==> 0.1 Establish coding standard, code size measurement, and process improvement proposal.
 1. Code size estimating and test report.
-1.1 Test planning and schedule planning.
+==> 1.1 Test planning and schedule planning.
 2. Code reviews + design reviews
-2.1 Design templates.
+==> 2.1 Design templates.
 3. Cyclic development.
